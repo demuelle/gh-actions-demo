@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+const anArray = [1,"twenty-two",3]
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
